@@ -1,0 +1,17 @@
+{
+  "language": "Language",
+  "mode": "Mode",
+  "light": "Light",
+  "select_your_language": "Select your language",
+  "select_your_theme": "Select your theme",
+  "dark": "Dark",
+  "number_ayat": "number ayat",
+  "sura_name": "sura name",
+  "al_Ahadeth": "Al Ahadeth",
+  "islami": "Islami",
+  "quran": "Quran",
+  "ahadeth": "Ahadeth",
+  "sebha": "Sebha",
+  "radio": "Radio",
+  "settings": "Settings"
+}
